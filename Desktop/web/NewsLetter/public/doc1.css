@@ -1,0 +1,45 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(235, 227, 235);
+}
+.signin input[type="text"], .submitit{
+    display: block;
+    margin:auto;
+}
+img{
+    border-radius: 100%;
+    width: 150px;
+    height:150px;
+}
+body{
+    padding-top:10rem;
+    margin: auto;
+    text-align: center;
+}
+.submitit{
+    color: white;
+    width: 25.8rem;
+    height: 3.4rem;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: sans-serif;
+    background-color: rgb(117, 144, 166);
+    
+}
+.submitit:hover{
+    background-color: black;
+}
+.signin input[type="text"]{
+    border-radius:10px;
+    width:25rem;
+    margin-top: 5px;
+    border-color: aqua;
+    height:3rem;
+    font-size: 1.3rem;
+    padding-left: 0.3rem;
+}
+h3{
+    font-size:2rem;
+}
+
+
